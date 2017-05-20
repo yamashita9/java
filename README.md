@@ -2,5 +2,5 @@
 
 javaの学習を行っています。
 
-#License
+#License  
 MIT
